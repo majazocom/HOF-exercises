@@ -1,4 +1,4 @@
-users = [
+let characters = [
     {
       name: 'Zelda',
       age: 25
